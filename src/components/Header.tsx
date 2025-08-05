@@ -39,7 +39,7 @@ const Header = () => {
                 <div
                   className="flex items-center gap-2 hover:opacity-90 transition-opacity cursor-pointer"
                   onClick={() =>
-                    window.open("https://wa.me/01011482752", "_blank")
+                    window.open("https://wa.me/+201011482752", "_blank")
                   }
                 >
                   <MessageCircle className="w-4 h-4" />
